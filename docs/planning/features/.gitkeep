@@ -1,0 +1,14 @@
+# Features Directory
+
+Feature planning documents created by `/ct:feature-plan` command.
+
+## Structure:
+- `YYYY-MM-DD-feature-name.md` - Feature specifications
+- `YYYY-MM-DD-feature-name/` - Task breakdown directories
+  - `task-001.xml`, `task-002.xml` - Sequential tasks
+  - `task-003/` - Parallel task groups with subtasks
+
+## Workflow:
+1. Feature analysis and documentation
+2. Task breakdown with XML tracking
+3. Implementation with progress monitoring

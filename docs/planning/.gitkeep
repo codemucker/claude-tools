@@ -1,0 +1,7 @@
+# Planning Directory
+
+This directory contains project planning documents:
+
+- `features/` - Feature planning documents created by `/ct:feature-plan` command
+  - Feature files: `YYYY-MM-DD-feature-name.md`  
+  - Task directories: `YYYY-MM-DD-feature-name/task-XXX.xml`
